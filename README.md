@@ -1,2 +1,2 @@
 # ReactPortfolio
-This is a test portfolio in React.
+This is a portfolio in React.
