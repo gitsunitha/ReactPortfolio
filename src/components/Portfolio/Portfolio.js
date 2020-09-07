@@ -64,7 +64,7 @@ export default function Portfolio(props) {
         <div id="modal-01" className="popup-modal mfp-hide">
           <img
             className="scale-with-grid"
-            src="images/portfolio/library.jpg"
+            src="images/portfolio/modals/m-llibrary.jpg"
             alt=""
           />
           <div className="description-box">
@@ -119,7 +119,7 @@ export default function Portfolio(props) {
         <div id="modal-03" className="popup-modal mfp-hide">
           <img
             className="scale-with-grid"
-            src="images/portfolio/vizfinance.jpg"
+            src="images/portfolio/modals/m-vizfinance.jpg"
             alt=""
           />
           <div className="description-box">
