@@ -31,11 +31,11 @@ export default function Header() {
               Works
             </a>
           </li>
-          <li>
+          {/* <li>
             <a className="smoothscroll" href="#contact">
               Contact
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
       <div className="row banner">
