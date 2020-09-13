@@ -6,7 +6,7 @@ export default function Footer() {
         <div className="twelve columns">
           <ul className="social-links">
             <li>
-              <a href="#">
+              <a href="https://github.com/gitsunitha">
                 <i className="fa fa-github" />
               </a>
             </li>

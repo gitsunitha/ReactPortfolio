@@ -5,7 +5,11 @@ export default function About(props) {
     <section id="about">
       <div className="row">
         <div className="three columns">
-          <img className="profile-pic" src="images/profilepic.jpg" alt="" />
+          <img
+            className="profile-pic"
+            src=".\images\profilepic.jpg"
+            alt="Profile Image"
+          />
         </div>
         <div className="nine columns main-col">
           <h2>About Me</h2>
@@ -29,7 +33,7 @@ export default function About(props) {
             </div>
             <div className="columns download">
               <p>
-                <a href="#" className="button">
+                <a href=".\resume\SunithaPillaiFS2020.pdf" className="button">
                   <i className="fa fa-download" />
                   Download Resume
                 </a>

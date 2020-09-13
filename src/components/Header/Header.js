@@ -47,12 +47,12 @@ export default function Header() {
           <hr />
           <ul className="social">
             <li>
-              <a href="#">
+              <a href="https://www.linkedin.com/in/sunitha-pillai-7612147/">
                 <i className="fa fa-linkedin" />
               </a>
             </li>
             <li>
-              <a href="#">
+              <a href="https://github.com/gitsunitha">
                 <i className="fa fa-github" />
               </a>
             </li>
