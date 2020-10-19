@@ -33,7 +33,7 @@ export default function About(props) {
             </div>
             <div className="columns download">
               <p>
-                <a href=".\resume\SunithaPillaiFS2020.pdf" className="button">
+                <a href=".\resume\SPWEBDEVRESUME.pdf" className="button">
                   <i className="fa fa-download" />
                   Download Resume
                 </a>
