@@ -21,8 +21,6 @@ export default function About(props) {
                 <span>Sunitha Pillai</span>
                 <br />
                 <span>
-                  3114 W Euclid Ave
-                  <br />
                   Tampa, Fl 33629 US
                 </span>
                 <br />
